@@ -35,10 +35,15 @@ It includes:
 💡 Features
 
 ✅ Interactive Chat UI – Built with React, styled for responsiveness.
+
 ✅ Smart AI Replies – Integrated with OpenAI API or custom logic.
+
 ✅ Database Support – Stores conversations using MongoDB.
+
 ✅ Voice Commands – Uses browser speech recognition for input.
+
 ✅ RESTful APIs – Clean backend routes for communication and data flow.
+
 ✅ Scalable Architecture – Modular code separation for frontend and backend.
 
 🧩 API Endpoints
