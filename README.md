@@ -18,4 +18,12 @@ It includes:
 
 🔐 Authentication (optional) with JWT or session cookies
 
+| Layer                            | Technology                           |
+| -------------------------------- | ------------------------------------ |
+| **Frontend**                     | React.js, Tailwind CSS / Material UI |
+| **Backend**                      | Node.js, Express.js                  |
+| **Database**                     | MongoDB                              |
+| **AI/NLP (Optional)**            | OpenAI API / custom ML model         |
+| **Voice Integration (Optional)** | Web Speech API                       |
+| **Version Control**              | Git & GitHub                         |
 
