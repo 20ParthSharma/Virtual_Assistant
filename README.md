@@ -1,4 +1,4 @@
-#Virtual Assistant
+🤖 Virtual Assistant
 
 A full-stack Virtual Assistant web application built using the MERN Stack (MongoDB, Express.js, React, Node.js).
 It provides an interactive, AI-powered experience that allows users to perform tasks, get intelligent responses, and interact through a sleek and responsive web interface.
