@@ -70,7 +70,26 @@ Built for productivity, curiosity, and interactivity — all through a clean and
 
 ---
 
-## 📸 Preview  
 
-> *(Add your project screenshots or demo GIFs here for extra impact)*  
+---
+
+## 🧑‍💻 Author  
+
+**👨‍💻 Parth Sharma**  
+🎓 B.Tech CSE @ *Galgotias University*  
+💼 MERN Stack & AI/ML Developer | Python Certified (GUVI)  
+
+
+
+
+---
+
+## 📝 License  
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
+
+---
+
+⭐ **If you like this project, consider giving it a star!**  
+> “Code with logic, build with passion, and automate with intelligence.” 🚀
 
