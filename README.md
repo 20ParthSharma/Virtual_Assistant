@@ -8,17 +8,17 @@ It provides an interactive, AI-powered experience that allows users to perform t
 This Virtual Assistant combines the power of AI with modern web technologies to simulate intelligent conversations and perform real-time tasks.
 It includes:
 
-🎤 Voice/Chat-based Interface
+🎤 Voice/Chat-based Interface.
 
-⚙️ AI Response Generation (using NLP or OpenAI API)
+⚙️ AI Response Generation (using NLP or OpenAI API).
 
-💬 Chat History Storage using MongoDB
+💬 Chat History Storage using MongoDB.
 
-🌐 RESTful API built with Express and Node
+🌐 RESTful API built with Express and Node.
 
-🎨 Frontend built with React for smooth and dynamic UI
+🎨 Frontend built with React for smooth and dynamic UI.
 
-🔐 Authentication (optional) with JWT or session cookies
+🔐 Authentication (optional) with JWT or session cookies.
 
 🛠️ Tech Stack
 
